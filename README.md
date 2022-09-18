@@ -1,5 +1,5 @@
 # Data-for-AENSGA-II
-This is the official data for our manuscript: A Practical Path Planning for Unmanned Surface Vehicles Considering Multiple Modality Constraints and Objectives
+This is the official data for our manuscript: Multi-objective path planning for unmanned surface vehicles using adaptive enhanced non-dominated sorting genetic algorithm (AENSGA-II) with fuzzy inference selector. 
  
 
 ### Requirements:
