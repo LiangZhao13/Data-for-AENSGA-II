@@ -10,7 +10,7 @@ The Navigational Toolbox package is required.
 To start using the data, please find the "plotres.m" file in each folder and run it. Then you will see the visualized results of our works. 
 
 ### Data description of Static envonment folder
-* **xxxxpath#.mat**: Coordinates and heading angles of the solution.
+* **xxxxpath#.mat**: Final solution for each algorithm.
 * **Objective_value_xxxx.xls**: Statistical measurements of the objective values for each algorithm. 
 
 ### Data description of [Dynamic_environment](https://github.com/LiangZhao13/Data-for-AENSGA-II/tree/main/Dynamic_environment) folder
