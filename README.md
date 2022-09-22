@@ -7,7 +7,7 @@ MATLAB 2021a environment is preferred.\
 The Navigational Toolbox package is required.
 
 ### How to use it?
-To start using the data, please find the "plotres.m" file in each folder and run. Then you will see the visualized results of our works. 
+To start using the data, please find the "plotres.m" file in each folder and run it. Then you will see the visualized results of our works. 
 
 ### Data description of Static envonment folder
 * **xxxxpath#.mat**: Coordinates and heading angles of the solution.
