@@ -23,7 +23,7 @@ To start using the data, please find the "plotres.m" file in each folder and run
 * [position.mat](https://github.com/LiangZhao13/Data-for-AENSGA-II/blob/main/Dynamic_environment/position.mat): Coordinates of the USV trajectory. 
 * [speed.mat](https://github.com/LiangZhao13/Data-for-AENSGA-II/blob/main/Dynamic_environment/speed.mat): Forward speed of the USV model.
 * [time.mat](https://github.com/LiangZhao13/Data-for-AENSGA-II/blob/main/Dynamic_environment/time.mat): Time steps of the simulation.
-* [propeller.mat](https://github.com/LiangZhao13/Data-for-AENSGA-II/blob/main/Dynamic_environment/propeller.mat): Propeller commands of the USV model. 
+* [propeller.mat](https://github.com/LiangZhao13/Data-for-AENSGA-II/blob/main/Dynamic_environment/propeller.mat): Propeller shaft speed of the USV model. 
 
 _Note: All the data in this category is recorded under the sampling rate of 0.05 s._
 
