@@ -1,6 +1,5 @@
 # Data-for-AENSGA-II
-This is the official data for our manuscript: Multi-objective path planning for unmanned surface vehicles using adaptive enhanced non-dominated sorting genetic algorithm (AENSGA-II) with fuzzy inference selector. 
- 
+This is the official data for our manuscript: Hierarchical path planning framework for unmanned surface vehicles based on adaptive enhanced non-dominated sorting genetic algorithm (AENSGA-II).
 
 ### Requirements:
 MATLAB 2021a environment is preferred.\
